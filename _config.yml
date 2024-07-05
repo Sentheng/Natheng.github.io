@@ -12,7 +12,7 @@ title: "Nathan Theng's HomePage"
 title_separator: "-"
 name: &name "Nathan Theng"
 description: &description "Nathan Theng's Personal Website"
-url: https://Sentheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://sentheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "Sentheng/Natheng.github.io"
 
