@@ -21,7 +21,7 @@ repository: "Natheng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "ProfilePic.png"
+  avatar: "profile.png"
   name: "Nathan Hartanto Theng"
   pronouns: # example: "she/her"
   bio: "Recent Computer Science Graduate @Fresno State"
