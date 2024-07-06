@@ -1,0 +1,9 @@
+---
+title: "DataFest: Attorney Recommendation Predicative Model"
+excerpt: "For a local data competition, my team (Nathan Theng, Daniel Theng, Nick Tom, Emma Andrade) created a recommendation and predicative models in Python for attorneys and clients based on the data that was given to use for the competition. The project consisted of the following: #1 Basic data cleaning to understand the data better #2 Recommendation Model to recommend top 13 Attorneys based on the clients need via their questions to the attorney (provided in the data) #3 Predicative Model. <br/><img src='/images/DataFestRecommendation.png'>"
+collection: portfolio
+---
+
+After cleaning the data and viewing the categories and the percentage of questions that were left unanswered, my team decided that we wanted to answer the following research question: Given any question, which attorneys are most suited to take the case? In order to do this we proposed a recommendation model based on Question Content, Attorneys Experience with Similar Questions, and Attorney Familiarity with Category. This is done by the term frequency and inverse document frequency as well as finding the elbow of the score distribution curve. By doing this a list of recommended attorneys was created for the clients. To further help attorneys, we also implement three different models to predict the question category of the client based on the demographic data: Logistic Regression (Score: 0.471), Support Vector Machine (Score: 0.473), and Random Forests (Score: 0.447). We utilized features important to detect which factors were most important and build graphics for our models. Annual income and investment balance were determined to be the most important.
+
+[Click Here for GitHub Repository](https://github.com/Sentheng/DataFest-Attorney-Recommendation-Predicative-Model)

@@ -5,7 +5,7 @@ permalink: /publication/Neural_Network_Approach_to_Recognize_Facial_Emotions
 excerpt: 'Implemented small and large convolutional neural networks within MATLAB to detect eight different facial emotion labels which are trained on the CKPLUS and Natural Human Face Image for Emotion Recognition dataset. Based on hierarchical features in global and subtle cues, the model was tested with live-feed images from a computer web camera. The results indicated 44.34% and 49.23% accuracy for the small and large networks respectively.(Research Advisor: Dr. Amith Belman, Department of Computer Science) '
 date: 2023-12-01
 venue: 'CSCI 158: Research Presentation'
-paperurl: 'https://NathanTheng.github.io/files/Neural_Network_Approach_to_Recognize_Facial_Emotions.pdf'
+paperurl: 'https://sentheng.github.io/files/Neural_Network_Approach_to_Recognize_Facial_Emotions.pdf'
 citation: 'Theng, et al.(23). &quot;Neural Network Approach to Recognize Facial Emotion.&quot; <i> CSCI 158 Reseach Presentation, California State University, Fresno</i>.'
 ---
 

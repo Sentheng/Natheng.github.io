@@ -4,7 +4,7 @@ permalink: /publication/Predicting-Genomic-Anomalies-with-Generational-Genomic-S
 excerpt: 'Created and implemented convolutional neural networks and transformer architecture using PyTorch to predict structural variants (SVs) within an individual’s genome. This project utilized low-quality observation signal data from nine related family members that were transformed into a 3x3 image and fed through the architecture. The results indicate 67.87% accuracy. The abstract is under review for the Asilomar Conference on Conference on Signals, Systems, and Computers. (Research Advisor: Dr. Mario Banuelos, Department of Mathematics)'
 date: 2024-02-17
 venue: 'Asilomar Conference on Conference on Signals, Systems, and Computers'
-paperurl: 'https://NathanTheng.github.io/files/Asilomar_Extended_Summary.pdf'
+paperurl: 'https://sentheng.github.io/files/Asilomar_Extended_Summary.pdf'
 citation: 'Theng, et al. (2024). &quot;Predicting Genomic Anomalies with Generational Genomic Signals.&quot; <i>Asilomar Conference on Conference on Signals, Systems, and Computers</i>.'
 ---
 

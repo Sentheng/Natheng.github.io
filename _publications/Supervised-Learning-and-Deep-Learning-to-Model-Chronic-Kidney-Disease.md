@@ -5,7 +5,7 @@ permalink: /publication/Supervised-Learning-and-Deep-Learning-to-Model-Chronic-K
 excerpt: 'Proposed and implemented four supervised learning classification models, including one deep learning model (Decision Tree, Random Forest, Support Vector Machine, and Multi-Layer Perceptron) to predict if an individual has chronic kidney disease based on a dataset with 25 different features. The Multi-Layer Perceptron model had the highest accuracy of 96.6% and the Decision Tree model had the lowest with 92.6%.(Research Advisor: Dr. Athanasios Panagopoulos, Department of Computer Science)'
 date: 2023-12-01
 venue: 'Undergraduate Thesis Defense, California State Universiy, Fresno -- Department of Computer Science'
-paperurl: 'http://NathanTheng.github.io/files/Supervised_Learning_Modeling_of_Chronic_Kidney_Disease.pdf'
+paperurl: 'http://sentheng.github.io/files/Supervised_Learning_Modeling_of_Chronic_Kidney_Disease.pdf'
 citation: 'Theng, Nathan.x(2023). &quot;Supervised Learning and Deep Learning to Model Chronic Kidney Disease. &quot; <i>Undergraduate Thesis Defense, California State University, Fresno </i>.'
 ---
 
