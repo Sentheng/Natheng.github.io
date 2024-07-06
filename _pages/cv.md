@@ -126,7 +126,7 @@ Community Serivce
   * Completed over 100 hours of community service to dictate patients’ histories and perform medical procedures such as sutures, stitches, and abscess drainage. Disturbed naloxone and secondary supplies to prevent overdose and disease in low-income areas in Fresno.
 * [KESEM at Fresno State](https://engage.fresnostate.edu/organization/camp-kesem-fresno-state) (Fall 2021 -- Spring 2022):
   * Completed over 200 hours of community service fostering relationships, leadership training, and team building between new recruits for the organization. I also served as a counselor to provide emotional support and guidance for campers beyond cancer and its effect on their lives.\
-* [Valley CHildren Patient Pals](https://www.valleychildrens.org/volunteers/volunteer-opportunities/opportunities-for-volunteers) (SPring 2019 -- Spring 2022):
+* [Valley Children Patient Pals](https://www.valleychildrens.org/volunteers/volunteer-opportunities/opportunities-for-volunteers) (Spring 2019 -- Spring 2022):
   * Completed over 80 hours of community service by delivering empathetic support and companionship to pediatric patients, while also assisting nurses and auxiliary staff with various tasks.
 
 Leadership

@@ -8,4 +8,4 @@ We implement both neural network and binary classification machine learning mode
 
 [Click Here for Paper Link](https://sentheng.github.io/files/Asilomar_Extended_Summary.pdf)
 
-[Click Here for GitHub Repository](https://github.com/Sentheng/Facial-Emotion-Recognition)
+[Click Here for GitHub Repository](https://github.com/Sentheng/Genomic-Signal-Neural-Network-Research)
