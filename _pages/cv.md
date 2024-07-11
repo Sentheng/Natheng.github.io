@@ -35,7 +35,7 @@ Research Experience
   * Sub-Reviewer (Summer 2024):
     * Reviewed and provided feedback on various state-of-the-art Large Language Model research papers and discovery for the ECAI 2024 Conference. I was supervised by Program Committee Member:  Dr. Athanasio Panagopoulos.
 * [University of California, Santa Barbara](https://www.ucsb.edu/)
-  * Research Assistant, Robust Large Language Model Proram (Spring 2024):
+  * Research Assistant, Robust Large Language Model Program (Spring 2024):
     * Assisted in researching large language models and developing them through bootstrapping to improve thier own robustness This is a joint collaboration project with Fresno State, UC Santa Barbara, and Google as a CAHSI-Google IRP Award.
 * [University of California, San Francisco -- Fresno](https://fresno.ucsf.edu/)
   * Academic Research Lead, Department of Emergency Medicine (Fall 2021 -- Spring 2022):
