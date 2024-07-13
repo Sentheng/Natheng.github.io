@@ -49,9 +49,9 @@ Work Experience
   * Academic Mentor, Athletic Department (Fall 2021 -- Spring 2024):
     * Mentor student-athletes in various subject classes by coordinating tutoring sessions and designing study curricula to educate, and aid in
     memory retention, time management, study skills, test-taking preparation.
-  * USHER Peer Mentor, Computer Science Department (Fall 2023 -- Present):
+  * USHER Peer Mentor, Computer Science Department (Fall 2023 -- Spring 2024):
     * Mentor first-year computer science students with computer science classes, prerequisites, scheduling, time management, and computational algorithmic thinking to prepare them beyond their studies and into their careers.
-  * Cyber-Security Tutor, Computer Science Department (Spring 2023):
+  * Cyber-Security Tutor, Computer Science Department (Spring 2024):
     * Advise and mentor students within the Intermediate Cyber Security Certificate with in-class activities and programming assignments to better grasp material content.
   * Digital Transformation Intern, Hub of Digial Transformation and Innovation (Summer 2022):
     * Architected and shipped artificial intelligence projects for Fresno State by communicating alongside front-end and back-end developers to articulate plans to develop an app that utilized computer vision for campus navigation and to create an autonomous robot for Fresno State services.
@@ -70,7 +70,7 @@ Honors
   * Awared to one distinguished graduate of the nine Dean's Medalist for academic excellence, community involvement, and potential. One out 6,000+ graduates
 * [Dean's Medalist](https://www.fresnostatenews.com/2024/05/01/fresno-state-announces-2024-undergraduate-deans-medalists/), California State University, Fresno (April 2024):
   * Awared to one distinguished graduate of all graduating students within the College of Science and Mathematics that has shown academic excellence and potential. This provide an opportunitiy to be selected as the University's President's Medalist
-* [Smittcamp Family Honor Scholar](https://fresnostatesfhc.squarespace.com/), California State University, Fresno (August 2020 -- Present):
+* [Smittcamp Family Honor Scholar](https://fresnostatesfhc.squarespace.com/), California State University, Fresno (August 2020 -- May 2024):
   * Awarded annually to 50 incoming freshmen who show exceptional achievements in academic merit, community service, and leadership roles. Provides a full-tuition scholarship for eight semesters at CSU, Fresno as well as unique honors courses
 * [Summer Venture in Mangagment Program (SVMP) Fellow](https://www.hbs.edu/svmp/Pages/default.aspx), Harvard Business School (June 2024):
   * Selected to be part of the 2024 cohort consisting of 180 Fellows (<6%). The program aims to increase opportunities in business education for college students making an impact in their school or community. Engage in Harvard's Case Study Method in high-stake decision making and leadership situation from renowned professors.
@@ -115,19 +115,18 @@ Papers
 Extracurricular Activies
 ======
 Community Serivce
----
-* [Milwaukee Robotics Academy](https://www.milwaukeeroboticsacademy.org/) (Summer 2023):
-  * Completed over 40 hours of community service assisting in education low-income and disadvantaged elementary and middle school students from Milwaukee, Wisconsin in robotic software programming
-* [Smittcamp Family Honor College](https://fresnostatesfhc.squarespace.com/) (Fall 2020 -- Present):
-  * Completed over 70 hours of community service including working at Greek Fest, Project Linus, Academic Decathlon, West Coast Relays, Council of Presidential Scholars, the Fresno Center, and other local community organizations in Fresno.
+* [Fresno Needle Exchange -- Fresno Free Clinic](https://freeclinic-exchange.org/) (Fall 2021 -- Present):
+  * Completed over 100 hours of community service managing a group of 10+ volunteers to distribute naloxone and secondary supplies to prevent overdose and disease in low-income areas in Fresno. Dictated patients’ histories and performed medical procedures such as sutures, stitches, and abscess drainage.
 * [Buchanan High School Badminton](https://sites.google.com/site/bhsbirdies/) (Spring 2016 -- Present):
-  * Completed over 300 hours of community service in guiding high school students through comprehensive instruction and hands-on demonstration and real-time feedback to enhance their understanding and execution of the sport.
-* [Fresno Needle Exchange -- Fresno Free Clinic](https://freeclinic-exchange.org/) (Fall 2021 -- Spring 2023):
-  * Completed over 100 hours of community service to dictate patients’ histories and perform medical procedures such as sutures, stitches, and abscess drainage. Disturbed naloxone and secondary supplies to prevent overdose and disease in low-income areas in Fresno.
+  * Completed over 300 hours of community service in leading technical training for a local high school badminton team, supporting player development through personalized coaching and strategic instruction. Mentored athletes to create a positive team culture, leading to player retention.
+* [Milwaukee Robotics Academy](https://www.milwaukeeroboticsacademy.org/) (Summer 2023):
+  * Completed over 40 hours of community service mentoring and guided underserved elementary and middle school students in robotics software programming. Coordinated with Northwestern Mutual to create a mentorship pipeline connecting engineers to students.
+* [Smittcamp Family Honor College](https://fresnostatesfhc.squarespace.com/) (Fall 2020 -- Spring 2024):
+  * Completed over 70 hours of community service including working at Greek Fest, Project Linus, Academic Decathlon, West Coast Relays, Council of Presidential Scholar, etc. Led and represented the student body of the honor college (2022-2023). Oversaw all projects and events pertaining to the honor programs and liaised between students and the governing university board.
 * [KESEM at Fresno State](https://engage.fresnostate.edu/organization/camp-kesem-fresno-state) (Fall 2021 -- Spring 2022):
-  * Completed over 200 hours of community service fostering relationships, leadership training, and team building between new recruits for the organization. I also served as a counselor to provide emotional support and guidance for campers beyond cancer and its effect on their lives.\
+  * Completed over 200 hours of community service fOrganized recruitment and training for volunteers to support programming for children affected by cancer or their parent’s cancer. Directed scheduling, communication, and evaluation to ensure volunteer safety and compliance to further Kesem’s mission. Served as a counselor to provide emotional support and guidance for campers beyond cancer and its effect on their lives.
 * [Valley Children Patient Pals](https://www.valleychildrens.org/volunteers/volunteer-opportunities/opportunities-for-volunteers) (Spring 2019 -- Spring 2022):
-  * Completed over 80 hours of community service by delivering empathetic support and companionship to pediatric patients, while also assisting nurses and auxiliary staff with various tasks.
+  * Completed over 80 hours of community service providing support and activities for a diverse range of pediatric patients needs. Led one-on-one interaction to create positive environment that enhance patient care experience
 
 Leadership
 --------
