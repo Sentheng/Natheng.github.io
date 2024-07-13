@@ -19,7 +19,7 @@ Education
 
 Skills
 ======
-Languages and Framework: R, MATLAB, Python, C#, C++, Java, SQL, HTML, CSS, Javascript, ReactJS, Node.JS, AWS Cloud Angular, 80x86 Assembly, Haskell, MS Office, Terraform, Golang, Docker, Kubernetes, PyTorch, TensorFlow, NumPy, Pandas
+Languages and Framework: R, MATLAB, Python, C#, C++, Java, SQL, HTML, CSS, Javascript, ReactJS, Node.JS, Angular, 80x86 Assembly, Haskell, MS Office, Terraform, Go, Docker, Kubernetes, PyTorch, DeepSpeed, TensorFlow, NumPy, Pandas, Deep Learning, Data Science
 
 Research Experience
 ======
