@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! My name is Nathan Theng. I recently graduated from California State University, Fresno, where I majored in Computer Science and minored in Physical Science. I was a President's Scholar in the [Smittcamp Family Honors College](https://fresnostatesfhc.squarespace.com/), as well as the College of Science and Mathematics [Undergraduate Dean's Medalist](https://www.fresnostatenews.com/2024/05/01/fresno-state-announces-2024-undergraduate-deans-medalists/) and the University's [Undergraduate President's Medalist](https://www.fresnostatecsm.com/nathan-theng-named-2024-presidents-medalist/#:~:text=Computer%20Science%20Major%20Nathan%20Theng,the%20best%20among%20our%20students.) for the graduating class of 2024.
 
-I am actively applying to roles within AI and Machine Learning. I plan to pursue a PhD in Computer Science/Machine Learning, Computational Mathematics, or Data Science further in my career.
+I am actively applying to roles within AI, Machine Learning, and Software Engineering. I plan to pursue a PhD in Computer Science/Machine Learning, Computational Mathematics, or Data Science further in my career.
 
 Work and Research Experience
 ======
